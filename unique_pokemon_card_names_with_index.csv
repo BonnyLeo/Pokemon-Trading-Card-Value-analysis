@@ -1,0 +1,681 @@
+0,Eri
+1,Aegislash
+2,Gengar
+3,Dialga
+4,Zoroark
+5,Roark
+6,Blaziken
+7,Ninetales
+8,Dewgong
+9,Raichu
+10,Moltres
+11,Blaziken ex
+12,Charizard
+13,Pidgey
+14,Genesect
+15,Seismitoad
+16,Yveltal
+17,Machamp
+18,Luxray
+19,Crobat
+20,Absol
+21,Gallade
+22,Lucario ex
+23,Lucario
+24,Heracross
+25,Kangaskhan
+26,Kangaskhan ex
+27,Landorus
+28,Potion
+29,Energy Search
+30,Groudon
+31,Victini
+32,Charizard ex
+33,Crushing Hammer
+34,Grant
+35,Hypno
+36,Lance
+37,Jolteon
+38,Blastoise
+39,Ponyta
+40,Bulbasaur
+41,Articuno
+42,Pikachu
+43,Zapdos
+44,Charmeleon
+45,Vulpix
+46,Scyther
+47,Dunsparce
+48,Wailord
+49,Switch
+50,Shuppet
+51,Metagross
+52,Entei
+53,Hydreigon
+54,Alakazam
+55,Mewtwo
+56,Venomoth
+57,Pinsir
+58,Magneton
+59,Clefable
+60,Vileplume
+61,Snorlax
+62,Kyogre
+63,Gengar ex
+64,Worker
+65,Ninetales ex
+66,Celebi
+67,Aegislash ex
+68,Sableye
+69,Mew ex
+70,Mewtwo ex
+71,Blastoise ex
+72,Diancie
+73,Ultra Ball
+74,Hawlucha
+75,Noibat
+76,Slakoth
+77,Ralts
+78,Thundurus
+79,Judge
+80,Sylveon
+81,Tool Box
+82,Eevee
+83,Lileep
+84,Feebas
+85,Enhanced Hammer
+86,Gardevoir ex
+87,Gardevoir
+88,Camerupt
+89,Zangoose
+90,Infernape
+91,Super Potion
+92,Lady
+93,Bronzong
+94,Bronzor
+95,Meowth
+96,Giratina V
+97,Palkia
+98,Kingdra
+99,Dragonite
+100,Greninja ex
+101,Emolga
+102,Energy Retrieval
+103,Black Kyurem ex
+104,Kyurem
+105,Haxorus
+106,Jirachi
+107,Energy Switch
+108,Shaymin
+109,Duskull
+110,Dusknoir
+111,Dusclops
+112,Rare Candy
+113,Venusaur ex
+114,Venusaur
+115,Golbat
+116,Talonflame
+117,Cobalion
+118,Forretress
+119,Heatran
+120,Flygon ex
+121,Ditto
+122,Porygon
+123,Regirock
+124,Hoopa ex
+125,Great Ball
+126,Cleffa
+127,Murkrow
+128,Dark Patch
+129,Toxicroak ex
+130,Magnezone
+131,Magnezone ex
+132,Zubat
+133,Chandelure
+134,Noivern
+135,Magikarp
+136,Wingull
+137,Togetic
+138,Togekiss
+139,Togepi
+140,Bidoof
+141,Superior Energy Retrieval
+142,Rapidash
+143,Natu
+144,Sacred Ash
+145,Barboach
+146,Wurmple
+147,Lucky Helmet
+148,Beautifly
+149,Ariados
+150,Flareon
+151,Shiftry
+152,Tyranitar
+153,Spinarak
+154,Cottonee
+155,Pal Pad
+156,Lapras
+157,Kirlia
+158,Milotic
+159,Whimsicott
+160,Altaria
+161,Ursaring
+162,Chansey
+163,Swablu
+164,Squirtle
+165,Zorua
+166,Super Rod
+167,Machoke
+168,Haunter
+169,Machop
+170,Gastly
+171,Hitmonlee
+172,Pikachu ex
+173,Mewtwo V
+174,Cinccino
+175,Seadra
+176,Muk
+177,Charizard V
+178,Deino
+179,Regice
+180,Zweilous
+181,Lucian
+182,Bouffalant
+183,Cresselia
+184,Pidgeot
+185,Pidgeotto
+186,Seedot
+187,Torchic
+188,Gible
+189,Manaphy
+190,Froakie
+191,Remoraid
+192,Frogadier
+193,Gyarados ex
+194,Honedge
+195,Psyduck
+196,Energy Recycler
+197,Iono
+198,Charmander
+199,Kadabra
+200,Abra
+201,Jigglypuff
+202,Doublade
+203,Leafeon
+204,Glaceon
+205,Dedenne
+206,Pancham
+207,Beldum
+208,Metang
+209,Fresh Water Set
+210,Scizor ex
+211,Scizor
+212,Slowking
+213,Lampent
+214,Joltik
+215,Combee
+216,Kingdra ex
+217,Mawile
+218,Espeon ex
+219,Registeel
+220,Magnemite
+221,Aerodactyl
+222,Reuniclus
+223,Solosis
+224,Duosion
+225,Teddiursa
+226,Clefairy
+227,Alakazam ex
+228,Glalie
+229,Trapinch
+230,Klefki
+231,Vaporeon ex
+232,Slowpoke
+233,Mankey
+234,Sandshrew
+235,Larvitar
+236,Yanma
+237,Skitty
+238,Sylveon ex
+239,Mantyke
+240,Luxio
+241,Shinx
+242,Magearna
+243,Penny
+244,Galvantula
+245,Solrock
+246,Spark
+247,Gabite
+248,Flareon ex
+249,Weezing
+250,Wartortle
+251,Koffing
+252,Ivysaur
+253,Goldeen
+254,Tyranitar ex
+255,Chimchar
+256,Fletchinder
+257,Fletchling
+258,Aipom
+259,Klinklang
+260,Ambipom
+261,Monferno
+262,Persian
+263,Slowbro
+264,Mightyena
+265,Jolteon ex
+266,Totodile
+267,Umbreon ex
+268,Umbreon
+269,Pidgeot ex
+270,Starmie
+271,Drifblim
+272,Zapdos ex
+273,Diglett
+274,Weavile
+275,Doduo
+276,Banette
+277,Banette ex
+278,Poochyena
+279,Lycanroc
+280,Rocky Helmet
+281,Rotom
+282,Garchomp ex
+283,Rowlet
+284,Salamence ex
+285,Litten
+286,Oddish
+287,Gloom
+288,Whiscash
+289,Rika
+290,Oranguru
+291,Torracat
+292,Spinda
+293,Bounsweet
+294,Decidueye
+295,Paras
+296,Nest Ball
+297,Dartrix
+298,Onix
+299,Dodrio
+300,Latias ex
+301,Altaria ex
+302,Rockruff
+303,Drifloon
+304,Sneasel
+305,Tapu Koko
+306,Mimikyu
+307,Gastrodon
+308,Tapu Lele
+309,Oricorio
+310,Tapu Bulu
+311,Krookodile
+312,Drampa
+313,Minior
+314,Alolan Raticate
+315,Alolan Rattata
+316,Energy Loto
+317,Wailmer
+318,Seviper
+319,Bagon
+320,Delcatty
+321,Shelgon
+322,Claydol
+323,Shellos
+324,Grimer
+325,Rufflet
+326,Raichu V
+327,Seel
+328,Ekans
+329,Venonat
+330,Turtonator
+331,Snorunt
+332,Marill
+333,Vanilluxe
+334,Silcoon
+335,Wimpod
+336,Starmie V
+337,Staryu
+338,Crabrawler
+339,Komala
+340,Bruxish
+341,Dhelmise
+342,Gothorita
+343,Feraligatr
+344,Scolipede
+345,Azumarill
+346,Terrakion
+347,Archeops
+348,Exeggcute
+349,Relicanth
+350,Lotad
+351,Noctowl
+352,Cook
+353,Counter Catcher
+354,Torterra
+355,Grotle
+356,Turtwig
+357,Kyurem V
+358,Lickitung
+359,Magmar
+360,Regigigas
+361,Magmortar
+362,Omanyte
+363,Kricketot
+364,Riolu
+365,Slowking ex
+366,Fan Rotom
+367,Omastar
+368,Piloswine
+369,Pachirisu
+370,Volo
+371,Ludicolo
+372,Combusken
+373,Chatot
+374,Cacnea
+375,Gothitelle
+376,Tornadus
+377,Garchomp V
+378,Uxie
+379,Azelf
+380,Zeraora
+381,Meltan
+382,Crabominable
+383,Ryme
+384,Counter Gain
+385,Rescue Board
+386,Stunfisk
+387,Adaman
+388,Mow Rotom
+389,Melmetal
+390,Vibrava
+391,Arceus V
+392,Fearow
+393,Drilbur
+394,Tropius
+395,Lilligant
+396,Swinub
+397,Cradily
+398,Kecleon
+399,Baltoy
+400,Porygon2
+401,Croagunk
+402,Swalot
+403,Sandile
+404,Litwick
+405,Spiritomb
+406,Scorbunny
+407,Grookey
+408,Youngster
+409,Iscan
+410,Slaking
+411,Lapras ex
+412,Larry
+413,Leftovers
+414,Seaking
+415,Timburr
+416,Hydreigon ex
+417,Comfey
+418,Meditite
+419,Katy
+420,Xatu
+421,Hoothoot
+422,Mantine
+423,Mawile V
+424,Froslass
+425,Primeape
+426,Spearow
+427,Horsea
+428,Pelipper
+429,Unfezant
+430,Pidove
+431,Tranquill
+432,Budew
+433,Elekid
+434,Krokorok
+435,Croconaw
+436,Dusk Ball
+437,Purrloin
+438,Victini ex
+439,Zacian
+440,Zacian V
+441,Morpeko
+442,Stonjourner
+443,Rillaboom
+444,Zamazenta
+445,Bibarel
+446,Palpitoad
+447,Girafarig
+448,Cryogonal
+449,Ledian
+450,Liepard
+451,Zamazenta V
+452,Cramorant
+453,Dragapult
+454,Darkrai V
+455,Kieran
+456,Indeedee
+457,Centiskorch
+458,Vitality Band
+459,Mela
+460,Vanillish
+461,Gothita
+462,Maractus
+463,Minccino
+464,Thwackey
+465,Spheal
+466,Chewtle
+467,Drednaw
+468,Coalossal
+469,Vanillite
+470,Raboot
+471,Dubwool
+472,Corviknight
+473,Cufant
+474,Copperajah
+475,Magby
+476,Duraludon
+477,Yamask
+478,Lycanroc ex
+479,Applin
+480,Flapple
+481,Drowzee
+482,Zarude V
+483,Zarude
+484,Eternatus
+485,Lombre
+486,Pupitar
+487,Ledyba
+488,Regigigas V
+489,Carkol
+490,Rolycoly
+491,Milotic ex
+492,Norman
+493,Serena
+494,Hatterene V
+495,Drapion V
+496,Pineco
+497,Smoochum
+498,Brandon
+499,Town Store
+500,Swoobat
+501,Surfer
+502,Volbeat
+503,Numel
+504,Tympole
+505,Cinderace ex
+506,Raikou V
+507,Leafeon V
+508,Kricketune
+509,Dreepy
+510,Drakloak
+511,Lickilicky
+512,Love Ball
+513,Venipede
+514,Whirlipede
+515,Dragapult ex
+516,Skwovet
+517,Regidrago
+518,Regieleki
+519,Regidrago V
+520,Regieleki V
+521,Sizzlipede
+522,Zeraora V
+523,Lugia V
+524,Grabber
+525,Torterra ex
+526,Jirachi V
+527,Oranguru V
+528,Finneon
+529,Spectrier
+530,Dragonite V
+531,Accelgor
+532,Shaymin V
+533,Conkeldurr
+534,Roxanne
+535,Gulpin
+536,Hatterene VMAX
+537,Hisuian Growlithe
+538,Kingler V
+539,Kleavor
+540,Kingler VMAX
+541,Giacomo
+542,Poppy
+543,Arceus VSTAR
+544,Serperior V
+545,Mewtwo VSTAR
+546,Hisuian Zoroark
+547,Charizard VSTAR
+548,Leafeon VSTAR
+549,Glaceon VSTAR
+550,Aggron V
+551,Petilil
+552,Reshiram V
+553,Aerodactyl V
+554,Clive
+555,Arven
+556,Darkrai VSTAR
+557,Choice Belt
+558,Lumineon V
+559,Collapsed Stadium
+560,Shaymin VSTAR
+561,Entei V
+562,Hisuian Samurott V
+563,Hisuian Samurott VSTAR
+564,Sprigatito
+565,Fuecoco
+566,Kindler
+567,Magma Basin
+568,Wyrdeer V
+569,Temple of Sinnoh
+570,Hisuian Voltorb
+571,Gapejaw Bog
+572,Irida
+573,Lacey
+574,Hisuian Zoroark V
+575,Hisuian Zoroark VSTAR
+576,Radiant Greninja
+577,Radiant Charizard
+578,Candela
+579,Blanche
+580,Enamorus
+581,Quaxly
+582,Magnezone V
+583,Arezu
+584,Hisuian Typhlosion VSTAR
+585,Hisuian Typhlosion V
+586,Magnezone VSTAR
+587,Lunatone
+588,Radiant Heatran
+589,Origin Forme Dialga V
+590,Zisu
+591,Hisuian Basculin
+592,Origin Forme Palkia V
+593,Radiant Blastoise
+594,Hisuian Arcanine
+595,Hisuian Sneasler V
+596,Miraidon
+597,Zeraora VSTAR
+598,Hisuian Arcanine V
+599,Lechonk
+600,Origin Forme Dialga VSTAR
+601,Cyllene
+602,Hisuian Basculegion
+603,Supereffective Glasses
+604,Choy
+605,Canceling Cologne
+606,Hisuian Heavy Ball
+607,Radiant Venusaur
+608,Hisuian Decidueye V
+609,Trekking Shoes
+610,Giratina VSTAR
+611,Swirlix
+612,Conkeldurr V
+613,Lost City
+614,Egg Incubator
+615,Kyurem VMAX
+616,Enamorus V
+617,Origin Forme Palkia VSTAR
+618,Rotom V
+619,Clamperl
+620,Radiant Jirachi
+621,Alolan Vulpix VSTAR
+622,Alolan Vulpix V
+623,Huntail
+624,Slaking V
+625,Koraidon
+626,Miraidon ex
+627,Koraidon ex
+628,Simisear V
+629,Radiant Hisuian Sneasler
+630,Hisuian Lilligant V
+631,Radiant Alakazam
+632,Radiant Gardevoir
+633,Lake Acuity
+634,Crustle
+635,Dwebble
+636,Luxray V
+637,Mirage Gate
+638,Geeta
+639,Pidgeot V
+640,Virizion V
+641,Hisuian Goodra VSTAR
+642,Hisuian Goodra V
+643,Lost Vacuum
+644,Switch Cart
+645,Armarouge
+646,Ceruledge
+647,Lugia VSTAR
+648,Unown V
+649,Thorton
+650,Box of Disaster
+651,Miss Fortune Sisters
+652,Hisuian Zorua
+653,Omastar V
+654,Regieleki VMAX
+655,Candice
+656,Falkner
+657,Zeraora VMAX
+658,Delphox V
+659,Hisuian Decidueye VSTAR
+660,Rotom VSTAR
+661,Pot Helmet
+662,Radiant Charjabug
+663,Hisuian Electrode V
+664,Windup Arm
+665,Serperior VSTAR
+666,Simisear VSTAR
+667,Regigigas VSTAR
+668,Forest Seal Stone
+669,Chesnaught V
+670,Capturing Aroma
+671,Furisode Girl
+672,Ursaluna
+673,Gimmighoul
+674,Revavroom
+675,Regidrago VSTAR
+676,Radiant Tsareena
+677,Friends in Hisui
+678,Drapion VSTAR
+679,Friends in Sinnoh
+680,Illumise
