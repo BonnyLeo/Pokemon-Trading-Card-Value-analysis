@@ -14,8 +14,6 @@ This report analyzes [topic] using Power BI. It includes insights on [key metric
 - `Screenshots/`: Screenshots of static reports.
 
 ## 🌐 Interactive Version
-Explore the interactive charts recreated in Observable: [link]
+Load the `Pokemon_BI_visualizations.pbix` into PowerBI desktop or PowerBI services(online)
 
-## 🧠 Insights
-- [Insight 1]
-- [Insight 2]
+Description : Select a card in the first table. The details of the various versions of that card is shown including price and release date. In the graph, you are able to see the mention count of that cards in reddit "r\PokemonTCG" seperated by years.
